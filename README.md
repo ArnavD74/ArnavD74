@@ -15,6 +15,7 @@
 <a href="https://github.com/covidatlas/coronadatascraper">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=covidatlas&repo=coronadatascraper&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a>
+<p>&nbsp  </p> 
 <a href="https://github.com/ArnavD74/APCSA">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavd74&repo=APCSA&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a>
