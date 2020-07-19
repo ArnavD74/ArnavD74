@@ -1,5 +1,4 @@
 ![Welcome](https://raw.githubusercontent.com/ArnavD74/ArnavD74/master/welcome.png)
-<h3 align="center"> High school student interested in computer science and full-stack web development. 👻</h3>
 
 - 🔭 I’m currently working on: [Tangerine](https://tangerinebot.com)
 
