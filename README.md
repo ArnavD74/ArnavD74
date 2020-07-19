@@ -25,6 +25,8 @@
 
 <br>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=arnavd74&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />--!>
+<p>&nbsp  </p> 
+<p>&nbsp  </p> 
 
 <p align="center">
 <a href="https://codepen.io/arnav74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="arnav74" height="20" width="20" /></a>  
