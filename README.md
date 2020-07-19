@@ -4,9 +4,9 @@
 
 - 👨‍💻 All of my projects are available at: [https://dashaputra.com](https://dashaputra.com)
 
-- 💬 Ask me about: **HTML, CSS, discord.JS, & GitHub Pages**
+- 💬 Ask me about: [**HTML**](https://html.spec.whatwg.org/), [**CSS**](https://css-tricks.com/), [**discord.JS**](https://discord.js.org/#/), & [**GitHub Pages**](https://pages.github.com/)
 
-- ⚡ Additional skills: **Adobe PS, Google Cloud, Azure, & Raspberry Pi**
+- ⚡ Additional skills: [**Adobe PS**](https://www.adobe.com/products/photoshopfamily.html), [**Google Cloud**](https://cloud.google.com/), [**Azure**](https://azure.microsoft.com/en-us/), & [**Raspberry Pi**](https://www.raspberrypi.org/)
 
 - 📫 Reach me at: **arnav.dashaputra@gmail.com**
 
