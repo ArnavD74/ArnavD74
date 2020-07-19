@@ -12,11 +12,18 @@
 <a href="https://github.com/arnavd74/arnavd74.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavd74&repo=arnavd74.github.io&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a>
-<a href="https://github.com/tangerine-bot/tangerine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tangerine-bot&repo=tangerine&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
+<a href="https://github.com/covidatlas/coronadatascraper">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=covidatlas&repo=coronadatascraper&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a>
+<a href="https://github.com/ArnavD74/APCSA">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavd74&repo=APCSA&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
+</a>
+<a href="https://github.com/tangerine-bot/tangerine-bot.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tangerine-bot&repo=tangerine-bot.github.io&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
+</a>
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=arnavd74&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=arnavd74&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />--!>
 
 <p align="center">
 <a href="https://codepen.io/arnav74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="arnav74" height="20" width="20" /></a>  
