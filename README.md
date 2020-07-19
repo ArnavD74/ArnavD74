@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: **HTML, CSS, discord.JS, & GitHub Pages**
 
-- ⚡ Additional skills: **Adobe PS, Google Cloud and Azure VMs, & ARM Microcomputing**
+- ⚡ Additional skills: **Adobe PS, Google Cloud, Azure, & Raspberry Pi**
 
 - 📫 Reach me at: **arnav.dashaputra@gmail.com**
 
