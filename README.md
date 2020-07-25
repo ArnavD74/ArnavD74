@@ -1,8 +1,8 @@
 ![Welcome](https://raw.githubusercontent.com/ArnavD74/ArnavD74/master/welcome.png)
 
-- 🍊 I’m currently working on: [Tangerine](https://tangerinebot.com)
+- 🍊 I’m currently working on: [**Tangerine**](https://tangerinebot.com)
 
-- 👨‍💻 All of my projects are available at: [https://dashaputra.com](https://dashaputra.com)
+- 👨‍💻 All of my projects are available at: [**https://dashaputra.com**](https://dashaputra.com)
 
 - 💬 Ask me about: [**HTML**](https://html.spec.whatwg.org/), [**CSS**](https://css-tricks.com/), [**discord.JS**](https://discord.js.org/#/), & [**GitHub Pages**](https://pages.github.com/)
 
