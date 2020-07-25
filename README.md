@@ -1,4 +1,8 @@
-![Welcome](https://raw.githubusercontent.com/ArnavD74/ArnavD74/master/welcome.png)
+<!--![Welcome](https://raw.githubusercontent.com/ArnavD74/ArnavD74/master/welcome.png)-->
+<div align="center">
+	<img src="https://raw.githubusercontent.com/arnavd74/arnavd74/master/header.svg" width="800" height="400">
+	<br>
+</div>
 
 - 🍊 I’m currently working on: [**Tangerine**](https://tangerinebot.com)
 
