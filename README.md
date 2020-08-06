@@ -12,7 +12,7 @@
 
 - ⚡ Additional skills: [**Adobe PS**](https://www.adobe.com/products/photoshopfamily.html), [**Google Cloud**](https://cloud.google.com/), [**Azure**](https://azure.microsoft.com/en-us/), & [**Raspberry Pi**](https://www.raspberrypi.org/)
 
-- 🐈 Useful GitHub Extensions: [**Refined GH**](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/), [**Octotree**](https://addons.mozilla.org/en-US/firefox/addon/octotree/), [**NPMhub**](https://addons.mozilla.org/en-US/firefox/addon/npm-hub/), [**GH Repo Size**](https://addons.mozilla.org/en-US/firefox/addon/github-repo-size/), [**GH Dark Theme**](https://addons.mozilla.org/en-US/firefox/addon/github-dark-theme/), & [**GH File Icons**](https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/)
+- 🐈 Useful GitHub Extensions: [**Refined GH**](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/), [**Octotree**](https://addons.mozilla.org/en-US/firefox/addon/octotree/), & [**NPMhub**](https://addons.mozilla.org/en-US/firefox/addon/npm-hub/)
 
 - 📫 Reach me at: **arnav.dashaputra@gmail.com**
 <a href="https://github.com/arnavd74/arnavd74.github.io">
