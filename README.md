@@ -42,3 +42,12 @@
 <a href="https://fb.com/arnavdashaputra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arnavdashaputra" height="20" width="20" /></a>  
 <a href="https://instagram.com/arnav.xd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arnav.xd" height="20" width="20" /></a>
 </p>
+
+<p align="center">
+  <a>
+    <img src="https://badges.pufler.dev/years/arnavd74?style=flat-square&color=black&logo=github">
+  </a>
+  <a>
+    <img src="https://badges.pufler.dev/repos/arnavd74?style=flat-square&color=black&logo=github">
+  </a>
+</p>
