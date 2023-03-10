@@ -20,5 +20,3 @@
 <a href="https://github.com/tangerine-bot/tangerine">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tangerine-bot&repo=tangerine&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a> -->
-
-<br>
