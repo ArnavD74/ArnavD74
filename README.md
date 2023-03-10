@@ -6,8 +6,6 @@
 
 - 💬 Ask me about: [**HTML**](https://html.spec.whatwg.org/), [**CSS**](https://css-tricks.com/), [**discord.JS**](https://discord.js.org/#/), & [**GitHub Pages**](https://pages.github.com/)
 
-- ⚡ Additional skills: [**Adobe PS**](https://www.adobe.com/products/photoshopfamily.html), [**Google Cloud**](https://cloud.google.com/), [**Azure**](https://azure.microsoft.com/en-us/), & [**Raspberry Pi**](https://www.raspberrypi.org/)
-
 - 🐈 Useful GitHub Extensions: [**Refined GH**](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/), [**Octotree**](https://addons.mozilla.org/en-US/firefox/addon/octotree/), & [**NPMhub**](https://addons.mozilla.org/en-US/firefox/addon/npm-hub/)
 
 - 📫 Reach me at: **arnav.dashaputra@gmail.com**
@@ -19,10 +17,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=covidatlas&repo=coronadatascraper&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a>
 
-<!-- <p>&nbsp  </p>  -->
-
-<a href="https://github.com/tangerine-bot/tangerine-bot.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tangerine-bot&repo=tangerine-bot.github.io&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
+<a href="https://github.com/tangerine-bot/tangerine">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tangerine-bot&repo=tangerine&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a>
 
 <br>
