@@ -9,7 +9,7 @@
 - 🐈 Useful GitHub Extensions: [**Refined GH**](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/), [**Octotree**](https://addons.mozilla.org/en-US/firefox/addon/octotree/), & [**NPMhub**](https://addons.mozilla.org/en-US/firefox/addon/npm-hub/)
 
 - 📫 Reach me at: **arnav.dashaputra@gmail.com**
-<a href="https://github.com/arnavd74/arnavd74.github.io">
+<!-- <a href="https://github.com/arnavd74/arnavd74.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavd74&repo=arnavd74.github.io&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
 </a>
 
@@ -19,6 +19,6 @@
 
 <a href="https://github.com/tangerine-bot/tangerine">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tangerine-bot&repo=tangerine&show_icons=true&theme=dracula&line_height=30&hide_rank=false" />
-</a>
+</a> -->
 
 <br>
