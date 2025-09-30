@@ -19,21 +19,21 @@
   
 ### 👨‍💻 Windows Development  
   
-<img src="https://i.imgur.com/8f3TZKs.png" width="100%" alt="Windows Development Setup">  
+<img src="https://i.imgur.com/zIqKi48.png" width="100%" alt="Windows Development Setup">  
 <i>Main gaming rig fitted with triple monitor display and high-performance components</i>
 
 </td>
 <td width="33%">
   
 ### 🍎 macOS Development  
-<img src="https://i.imgur.com/zIqKi48.png" width="100%" alt="macOS Development Setup">  
+<img src="https://i.imgur.com/TORfk7C.png" width="100%" alt="macOS Development Setup">  
 <i>M3 MacBook Air with 16GB RAM for portable development</i>
 
 </td>
 <td width="33%">
   
 ### 🐧 Personal Lab  
-<img src="https://i.imgur.com/TORfk7C.png" width="100%" alt="Ubuntu Server Lab Environment">  
+<img src="https://i.imgur.com/8f3TZKs.png" width="100%" alt="Ubuntu Server Lab Environment">  
 <i>Ubuntu Server Environment - Personal Development Lab</i>
 
 </td>
