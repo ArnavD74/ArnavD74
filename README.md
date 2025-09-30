@@ -20,7 +20,7 @@
 ### 👨‍💻 Windows Development  
   
 <img src="https://i.imgur.com/zIqKi48.png" width="100%" alt="Windows Development Setup">  
-<i>Main gaming rig fitted with triple monitor display and high-performance components</i>
+<i>Main gaming rig fitted with triple displays and high-performance parts</i>
 
 </td>
 <td width="33%">
