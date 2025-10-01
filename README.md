@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋‎ ‎ Hey there! I'm Arnav.
+# 👋‎ ‎ Hey there! Arnav here.
 
 ### Software Engineer • Cloud Infrastructure • AI Solutions Specialist  
 <i>Rutgers CS/DS graduate; building production-ready applications!</i>
@@ -40,8 +40,38 @@
 </tr>
 </table>
 
+<br>
+
+<!-- === Peripherals block (between System Specs and Coding Companion) === -->
+<div align="center">
+
+<div align="center">
+
+### 🔎 Input & Setup Gear Preferences
+</div>
+<p align="center"><sub>
+I care deeply about input feel and control! It took a while to dial things in, but this setup makes me satisfied.
 <br><br>
-### 🐱 Meet My Coding Companion
+<b>Keyboards (in rotation):</b><br>
+<i>Cannonkeys Brutal 65 V2 with HMX Game 1989 switches and GMK Shashin Hiragana<br>
+Leopold FC660C with 45g Metakeebs domes, silencing rings, custom painted steel plate, charcoal caps</i>
+<br><br>
+<b>Mice (in rotation):</b><br>
+<i>Finalmouse UltralightX Phantom Tiger with Artisan Mizugumo Futae P8 skates<br>
+Keychron M5 with Xraypads Jade Air skates</i>
+<br><br>
+<b>Mousepads:</b> <i>Artisan Type-99 Soft • Artisan Raiden X-Soft • Artisan Hayate-Otsu v2 X-Soft</i>
+<br>
+<b>Audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack, or AirPods Pro Gen 3</i>
+<br>
+<b>Mic:</b> <i>FIFINE K688</i> • <b>Webcam:</b> <i>OnePlus Nord N10</i> • <b>Speakers:</b> <i>Logitech Z200</i>
+<br>
+<b>Displays:</b> <i>Main LG UltraGear OLED 27" (1440p 240Hz) • Side ASUS 24" (1080p 240Hz) • Side ASUS 24" (1080p 144Hz)</i>
+</sub></p>
+
+<br><br>
+
+### 🐱 Meet My Coding Companion!
 <div align="center">
 <img src="https://i.imgur.com/5dOENhx.png" width="60%" style="border-radius: 15px;" alt="My Cat">
 </div>
@@ -64,7 +94,8 @@ Leading technical education initiatives and curriculum development
 
 ## 🤝 Let's Connect & Collaborate!
 
-I'm passionate about building scalable software solutions, cloud architecture, and AI-powered applications. Always open to discussing innovative projects and collaboration opportunities!
+I'm passionate about building scalable software solutions, cloud architecture, and AI-powered applications.  
+Always open to discussing innovative projects and collaboration opportunities!
 
 <p align="center"><b>Technologies I Love Working With:</b></p>
 
