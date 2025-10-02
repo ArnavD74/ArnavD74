@@ -1,6 +1,6 @@
 <div align="center">
 
-  <pre style="display:inline-block; text-align:center; margin:0;"><code>arnav dashaputra • swe • cloud • AI solutions</code></pre>
+<pre style="display:inline-block; text-align:center; margin:0;"><code>arnav dashaputra • swe • cloud • AI solutions</code></pre>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dashaputra.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dashaputra.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dashaputra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dashaputra)
