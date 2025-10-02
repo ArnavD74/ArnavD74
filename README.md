@@ -1,9 +1,6 @@
 <div align="center">
 
-# 👋‎ ‎ Hey there! Arnav here.
-
-### Software Engineer • Cloud Infrastructure • AI Solutions Specialist  
-<i>Rutgers CS/DS graduate; building production-ready applications!</i>
+  <pre style="display:inline-block; text-align:center; margin:0;"><code>arnav dashaputra • swe • cloud • AI solutions</code></pre>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dashaputra.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dashaputra.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dashaputra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dashaputra)
@@ -11,30 +8,30 @@
 <br>
 <br>
 
-### 💻 System Specifications
+### 💻 system setup
 
 <table>
 <tr>
 <td width="33%">
   
-### 👨‍💻 Windows Development  
+### 👨‍💻 windows  
   
 <img src="https://i.imgur.com/zIqKi48.png" width="100%" alt="Windows Development Setup">  
-<i>Main gaming rig fitted with triple displays and high-performance parts</i>
+<i>main rig fitted with triple displays and high-performance parts</i>
 
 </td>
 <td width="33%">
   
-### 🍎 macOS Development  
+### 🍎 macOS  
 <img src="https://i.imgur.com/TORfk7C.png" width="100%" alt="macOS Development Setup">  
-<i>M3 MacBook Air with 16GB RAM for portable development</i>
+<i>MacBook Air M3 16GB for working on the go</i>
 
 </td>
 <td width="33%">
   
-### 🐧 Personal Lab  
+### 🐧 lab  
 <img src="https://i.imgur.com/8f3TZKs.png" width="100%" alt="Ubuntu Server Lab Environment">  
-<i>Ubuntu Server Environment - Personal Development Lab</i>
+<i>ubuntu server - personal development and home automation lab</i>
 
 </td>
 </tr>
@@ -47,67 +44,96 @@
 
 <div align="center">
 
-### 🔎 Input & Setup Gear Preferences
+### 🔎 input prefs
 </div>
 <p align="center"><sub>
-I care deeply about input feel and control! It took a while to dial things in, but this setup makes me satisfied.
+i have a fascination with my peripheral's feel and control - it took a while to dial things in, but this setup makes me satisfied.
 <br><br>
-<b>Keyboards (in rotation):</b><br>
-<i>Cannonkeys Brutal 65 V2 with HMX Game 1989 switches and GMK Shashin Hiragana<br>
-Leopold FC660C with 45g Metakeebs domes, silencing rings, custom painted steel plate, charcoal caps</i>
+<b>primary keyboards:</b><br>
+<i>Cannonkeys Brutal 65 V2, HMX Game 1989 switches, GMK Shashin Hiragana keycaps<br>
+Leopold FC660C, 45g Metakeebs domes, silencing rings, custom painted steel plate</i>
 <br><br>
-<b>Mice (in rotation):</b><br>
-<i>Finalmouse UltralightX Phantom Tiger with Artisan Mizugumo Futae P8 skates<br>
-Keychron M5 with Xraypads Jade Air skates</i>
+<b>primary mice:</b><br>
+<i>Finalmouse UltralightX Phantom Tiger w/ Artisan Mizugumo Futae P8 skates<br>
+Keychron M5 w/ Xraypads Jade Air skates</i>
 <br><br>
-<b>Mousepads:</b> <i>Artisan Type-99 Soft • Artisan Raiden X-Soft • Artisan Hayate-Otsu v2 X-Soft</i>
+<b>mousepads:</b> <i>Artisan Type-99 Soft • Artisan Raiden X-Soft • Artisan Hayate-Otsu v2 X-Soft</i>
 <br>
-<b>Audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack, or AirPods Pro Gen 3</i>
+<b>audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack, AirPods Pro Gen 3</i>
 <br>
-<b>Mic:</b> <i>FIFINE K688</i> • <b>Webcam:</b> <i>OnePlus Nord N10</i> • <b>Speakers:</b> <i>Logitech Z200</i>
+<b>mic:</b> <i>Fifine k669b</i> • <b>webcam:</b> <i>OnePlus Nord N10</i> • <b>speakers:</b> <i>Logitech Z200</i>
 <br>
-<b>Displays:</b> <i>Main LG UltraGear OLED 27" (1440p 240Hz) • Side ASUS 24" (1080p 240Hz) • Side ASUS 24" (1080p 144Hz)</i>
+<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • ASUS 24" (1080p 240Hz) • ASUS 24" (1080p 144Hz)</i>
 </sub></p>
 
 <br><br>
 
-### 🐱 Meet My Coding Companion!
+### 🐱 my coding companion!
 <div align="center">
 <img src="https://i.imgur.com/5dOENhx.png" width="60%" style="border-radius: 15px;" alt="My Cat">
 </div>
 
 <br>
 
-## 🚀 What I'm Currently Working On
+## 🚀 current work and projects
 
-**🏢 SWE at Stealth AI Healthcare Startup**  
-Building cloud-native infrastructure and React applications for healthcare solutions  
+**SWE @ Stealth AI Healthcare Startup**  
+building cloud-native infrastructure and React applications for healthcare solutions  
 
-**💼 Freelance Solutions Architect**  
-Developing end-to-end analytics platforms with ML-powered content generation  
-Architecting serverless SaaS solutions with React, AWS, and AI integration  
+**Freelance Solutions Architect**  
+developing end-to-end analytics platforms with ML-powered content generation  
+architecting serverless SaaS solutions with React, AWS, and AI integration  
 
-**🥷 Center Director at Code Ninjas**  
-Leading technical education initiatives and curriculum development  
+**Center Director at Code Ninjas Bridgewater**  
+leading technical education initiatives and curriculum development  
 
 <br>
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 let's connect!
 
-I'm passionate about building scalable software solutions, cloud architecture, and AI-powered applications.  
-Always open to discussing innovative projects and collaboration opportunities!
-
-<p align="center"><b>Technologies I Love Working With:</b></p>
+i'm always passionate about building scalable software solutions, cloud architecture, and AI-powered applications.  
+aways open to discussing innovative projects and collaboration opportunities!
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff">
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ffffff">
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=ffffff">
+  <img alt="Tableau" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff">
+</p>
+
+<p align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff">
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=ffffff">
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=ffffff">
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=ffffff">
+  <img alt="BeautifulSoup" src="https://img.shields.io/badge/-BeautifulSoup-3C8031?style=flat-square&logo=python&logoColor=ffffff">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff">
+  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white">
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=ffffff">
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff">
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff">
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff">
+  <img alt="LaTeX" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff">
+  <img alt="Google Analytics" src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=ffffff">
+  <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+</p>
+
+<p align="center">
+<img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+<img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 </p>
 
 <div align="center">
