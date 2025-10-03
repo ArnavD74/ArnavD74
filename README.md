@@ -17,21 +17,18 @@
 ### 👨‍💻 windows  
   
 <img src="https://i.imgur.com/zIqKi48.png" width="100%" alt="Windows Development Setup">  
-<i>main rig fitted with triple displays and high-performance parts</i>
 
 </td>
 <td width="33%">
   
 ### 🍎 macOS  
 <img src="https://i.imgur.com/TORfk7C.png" width="100%" alt="macOS Development Setup">  
-<i>MacBook Air M3 16GB for working on the go</i>
 
 </td>
 <td width="33%">
   
 ### 🐧 lab  
 <img src="https://i.imgur.com/8f3TZKs.png" width="100%" alt="Ubuntu Server Lab Environment">  
-<i>ubuntu server - personal development and home automation lab</i>
 
 </td>
 </tr>
@@ -47,21 +44,21 @@
 ### 🔎 input prefs
 </div>
 <p align="center"><sub>
-i have a fascination with my peripheral's feel and control - it took a while to dial things in, but this setup makes me satisfied.
+i have a fascination with my peripheral's feel and control - it took a while to dial things in, but this setup makes me happy!
 <br><br>
 <b>primary keyboards:</b><br>
 <i>Cannonkeys Brutal 65 V2, HMX Game 1989 switches, GMK Shashin Hiragana keycaps<br>
 Leopold FC660C, 45g Metakeebs domes, silencing rings, custom painted steel plate</i>
 <br><br>
 <b>primary mice:</b><br>
-<i>Finalmouse UltralightX Phantom Tiger w/ Artisan Mizugumo Futae P8 skates<br>
-Keychron M5 w/ Xraypads Jade Air skates</i>
+<i>Finalmouse UltralightX Phantom Tiger<br>
+Keychron M5</i>
 <br><br>
-<b>mousepads:</b> <i>Artisan Type-99 Soft • Artisan Raiden X-Soft • Artisan Hayate-Otsu v2 X-Soft</i>
+<b>mousepad:</b> <i>Artisan Type-99 Soft</i>
 <br>
-<b>audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack, AirPods Pro Gen 3</i>
+<b>audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack, AirPods Pro 3</i>
 <br>
-<b>mic:</b> <i>Fifine k669b</i> • <b>webcam:</b> <i>OnePlus Nord N10</i> • <b>speakers:</b> <i>Logitech Z200</i>
+<b>mic:</b> <i>Fifine K669b</i> • <b>webcam:</b> <i>OnePlus Nord N10</i> • <b>speakers:</b> <i>Logitech Z200</i>
 <br>
 <b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • ASUS 24" (1080p 240Hz) • ASUS 24" (1080p 144Hz)</i>
 </sub></p>
