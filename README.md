@@ -60,7 +60,7 @@ Keychron M5</i>
 <br>
 <b>mic:</b> <i>Fifine K669b</i> • <b>webcam:</b> <i>OnePlus Nord N10</i> • <b>speakers:</b> <i>Logitech Z200</i>
 <br>
-<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • ASUS 24" (1080p 240Hz) • ASUS 24" (1080p 144Hz)</i>
+<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • 2x ASUS 24" (1080p 240Hz)
 </sub></p>
 
 <br><br>
