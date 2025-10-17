@@ -79,7 +79,7 @@ building cloud-native infrastructure and React applications for healthcare solut
 
 **Freelance Solutions Architect**  
 developing end-to-end analytics platforms with ML-powered content generation  
-architecting serverless SaaS solutions with React, AWS, and AI integration  
+& architecting serverless SaaS solutions with React, AWS, and AI integration  
 
 **Center Director at Code Ninjas Bridgewater**  
 leading technical education initiatives and curriculum development  
