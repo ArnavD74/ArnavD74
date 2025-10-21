@@ -22,7 +22,7 @@
 <td width="33%">
   
 ### 🍎 macOS  
-<img src="https://i.imgur.com/TORfk7C.png" width="100%" alt="macOS Development Setup">  
+<img src="https://i.imgur.com/MJFXMTK.png" width="100%" alt="macOS Development Setup">  
 
 </td>
 <td width="33%">
