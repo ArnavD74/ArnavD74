@@ -8,26 +8,26 @@
 <br>
 <br>
 
-### 💻 system setup
+### system setup
 
 <table>
 <tr>
 <td width="33%">
   
-### 👨‍💻 windows  
+### windows  
   
 <img src="https://i.imgur.com/zIqKi48.png" width="100%" alt="Windows Development Setup">  
 
 </td>
 <td width="33%">
   
-### 🍎 macOS  
+### macOS  
 <img src="https://i.imgur.com/MJFXMTK.png" width="100%" alt="macOS Development Setup">  
 
 </td>
 <td width="33%">
   
-### 🐧 lab  
+### lab  
 <img src="https://i.imgur.com/8f3TZKs.png" width="100%" alt="Ubuntu Server Lab Environment">  
 
 </td>
@@ -41,24 +41,21 @@
 
 <div align="center">
 
-### 🔎 input prefs
+### input prefs
 </div>
 <p align="center"><sub>
-i have a fascination with my peripheral's feel and control - it took a while to dial things in, but this setup makes me happy!
+I have a fascination with my peripheral's feel and control - it took a while to dial things in, but this setup makes me happy!
 <br><br>
 <b>primary keyboards:</b><br>
-<i>Cannonkeys Brutal 65 V2, HMX Game 1989 switches, GMK Shashin Hiragana keycaps<br>
-Leopold FC660C, 45g Metakeebs domes, silencing rings, custom painted steel plate</i>
+<i>Cannonkeys Brutal 65 V2 w/ HMX Game 1989 switches, GMK Shashin Hiragana keycaps<br>
+Leopold FC660C w/ 45g Metakeebs domes, silencing rings</i>
 <br><br>
-<b>primary mice:</b><br>
-<i>Finalmouse UltralightX Phantom Tiger<br>
-Keychron M5</i>
+<b>primary mouse:</b><br>
+<i>G-Wolves Fenrir Asym<br>
 <br><br>
 <b>mousepad:</b> <i>Artisan Type-99 Soft</i>
 <br>
-<b>audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack, AirPods Pro 3</i>
-<br>
-<b>mic:</b> <i>Fifine K669b</i> • <b>webcam:</b> <i>OnePlus Nord N10</i> • <b>speakers:</b> <i>Logitech Z200</i>
+<b>audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack</i>
 <br>
 <b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • 2x ASUS 24" (1080p 240Hz)
 </sub></p>
@@ -72,21 +69,21 @@ Keychron M5</i>
 
 <br>
 
-## 🚀 current work and projects
+## current work and projects
 
 **SWE @ Stealth AI Healthcare Startup**  
 building cloud-native infrastructure and React applications for healthcare solutions  
 
 **Freelance Solutions Architect**  
 developing end-to-end analytics platforms with ML-powered content generation  
-& architecting serverless SaaS solutions with React, AWS, and AI integration  
+& architecting serverless SaaS solutions with React, AWS, and AI  
 
 **Center Director at Code Ninjas Bridgewater**  
 leading technical education initiatives and curriculum development  
 
 <br>
 
-## 🤝 let's connect!
+## let's connect!
 
 i'm always passionate about building scalable software solutions, cloud architecture, and AI-powered applications.  
 aways open to discussing innovative projects and collaboration opportunities!
@@ -132,9 +129,5 @@ aways open to discussing innovative projects and collaboration opportunities!
 <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 </p>
-
-<div align="center">
-<i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
 
 </div>
