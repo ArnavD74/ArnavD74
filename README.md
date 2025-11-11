@@ -44,20 +44,19 @@
 ### input prefs
 </div>
 <p align="center"><sub>
-I have a fascination with my peripheral's feel and control - it took a while to dial things in, but this setup makes me happy!
+I have a fascination with peripheral devices - it took a while to dial things in, but this setup makes me happy!
 <br><br>
 <b>primary keyboards:</b><br>
 <i>Cannonkeys Brutal 65 V2 w/ HMX Game 1989 switches, GMK Shashin Hiragana keycaps<br>
 Leopold FC660C w/ 45g Metakeebs domes, silencing rings</i>
 <br><br>
-<b>primary mouse:</b><br>
-<i>G-Wolves Fenrir Asym<br>
-<br><br>
+<b>primary mice:</b><br>
+<i>G-Wolves Fenrir Asym</i><br>
+<i>Finalmouse UltralightX</i><br>
+<br>
 <b>mousepad:</b> <i>Artisan Type-99 Soft</i>
 <br>
-<b>audio:</b> <i>SteelSeries Arctis Nova Pro into Schiit Magni/Modi stack</i>
-<br>
-<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • 2x ASUS 24" (1080p 240Hz)
+<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • Samsung 27" (1080p 240hz) • 2x ASUS 24" (1080p 144Hz)
 </sub></p>
 
 <br><br>
