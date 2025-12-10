@@ -16,7 +16,7 @@
   
 ### windows  
   
-<img src="https://i.imgur.com/zIqKi48.png" width="100%" alt="Windows Development Setup">  
+<img src="https://i.imgur.com/STek1jP.png" width="100%" alt="Windows Development Setup">  
 
 </td>
 <td width="33%">
