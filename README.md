@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre style="display:inline-block; text-align:center; margin:0;"><code>arnav dashaputra • swe • cloud • AI solutions</code></pre>
+<pre style="display:inline-block; text-align:center; margin:0;"><code>arnav dashaputra // swe • cloud • AI solutions</code></pre>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dashaputra.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dashaputra.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dashaputra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dashaputra)
@@ -14,20 +14,20 @@
 <tr>
 <td width="33%">
   
-### windows  
+### windows
   
 <img src="https://i.imgur.com/STek1jP.png" width="100%" alt="Windows Development Setup">  
 
 </td>
 <td width="33%">
   
-### macOS  
+### mac
 <img src="https://i.imgur.com/MJFXMTK.png" width="100%" alt="macOS Development Setup">  
 
 </td>
 <td width="33%">
   
-### lab  
+### home lab
 <img src="https://i.imgur.com/8f3TZKs.png" width="100%" alt="Ubuntu Server Lab Environment">  
 
 </td>
@@ -47,16 +47,17 @@
 I have a fascination with peripheral devices - it took a while to dial things in, but this setup makes me happy!
 <br><br>
 <b>primary keyboards:</b><br>
-<i>Cannonkeys Brutal 65 V2 w/ HMX Game 1989 switches, GMK Shashin Hiragana keycaps<br>
-Leopold FC660C w/ 45g Metakeebs domes, silencing rings</i>
+<i>Cannonkeys Brutal 65 V2 w/ HMX Game 1989 switches, Cerakey Matte V3 keycaps<br>
+Leopold FC660C w/ 45g Metakeebs domes, silencing rings<br>
+KBDFans KBD67 V3 w/ Keygeek Y2 switches, GMK Shashin Hiragana keycaps</i>
 <br><br>
 <b>primary mice:</b><br>
 <i>G-Wolves Fenrir Asym</i><br>
 <i>Finalmouse UltralightX</i><br>
 <br>
-<b>mousepad:</b> <i>Artisan Type-99 Soft</i>
+<b>mousepad:</b> <i>Artisan Hayate-Otsu V2 XSoft</i>
 <br>
-<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • Samsung 27" (1080p 240hz) • 2x ASUS 24" (1080p 144Hz)
+<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • Alienware 27" (1440p 240hz) • 2x ASUS 24" (1080p 240hz)</i>
 </sub></p>
 
 <br><br>
