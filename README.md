@@ -47,12 +47,11 @@
 I have a fascination with peripheral devices - it took a while to dial things in, but this setup makes me happy!
 <br><br>
 <b>primary keyboards:</b><br>
-<i>Cannonkeys Brutal 65 V2 w/ HMX Game 1989 switches, Cerakey Matte V3 keycaps<br>
-Leopold FC660C w/ 45g Metakeebs domes, silencing rings<br>
-KBDFans KBD67 V3 w/ Keygeek Y2 switches, GMK Shashin Hiragana keycaps</i>
+<i>Cannonkeys Brutal 65 V2 w/ HMX Game 1989 switches, Cerakey V3 keycaps<br>
+Leopold FC660C w/ 45g domes and silencing rings<br>
 <br><br>
 <b>primary mice:</b><br>
-<i>G-Wolves Fenrir Asym</i><br>
+<i>G-Wolves Fenrir Asym 8K</i><br>
 <i>Finalmouse UltralightX</i><br>
 <br>
 <b>mousepad:</b> <i>Artisan Hayate-Otsu V2 XSoft</i>
