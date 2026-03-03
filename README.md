@@ -77,11 +77,13 @@ working in, on, and around data
 **Software @ Stealth AI Healthcare Startup**  
 helping build cloud-native infrastructure and web applications for healthcare solutions  
 
-**Freelance Solutions Architect**  
+**Freelance Solutions Architect @ Got Users**  
 creating end-to-end analytics platforms for ML-powered content generation  
 
 **Center Director at Code Ninjas Bridgewater**  
 leading technical education initiatives and curriculum development  
+
+\+ more freelance clients :)
 
 <br>
 
