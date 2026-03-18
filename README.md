@@ -8,7 +8,7 @@
 <br>
 <br>
 
-### system setup
+## system setup
 
 <table>
 <tr>
@@ -41,28 +41,24 @@
 
 <div align="center">
 
-### input prefs
+## input prefs
 </div>
 <p align="center"><sub>
 I have a fascination with peripheral devices - it took a while to dial things in, but this setup makes me happy!
 <br><br>
 <b>primary keyboards:</b><br>
-<i>Cannonkeys Brutal 65 V2 w/ HMX Game 1989 switches, Cerakey V3 keycaps<br>
-Leopold FC660C w/ 45g domes and silencing rings<br></i>
-<br><br>
+<i>Cannonkeys Brutal 65 V2 w/ Keygeek Su Color V2 switches, GMK Shashin keycaps<br>
+Leopold FC660C w/ custom plate, 45g domes, and silencers<br></i>
+<br>
 <b>primary mice:</b><br>
 <i>G-Wolves Fenrir Asym 8K</i><br>
 <i>Finalmouse UltralightX</i><br>
-<br>
 <b>mousepad:</b> <i>Artisan Hayate-Otsu V2 XSoft</i>
-<br>
-<b>displays:</b> <i>LG UltraGear OLED 27" (1440p 240Hz) • Alienware 27" (1440p 240hz)
-<br>+ 2x ASUS 24" (1080p 240hz)</i>
 </sub></p>
 
-<br><br>
+<br>
 
-### 🐱 my coding companion!
+## 🐱 my coding companion!
 <div align="center">
 <img src="https://i.imgur.com/5dOENhx.png" width="60%" style="border-radius: 15px;" alt="My Cat">
 </div>
@@ -72,18 +68,19 @@ Leopold FC660C w/ 45g domes and silencing rings<br></i>
 ## current work and projects
 
 **Data Science @ AmTrust Financial**  
-working in, on, and around data
+working around data and MLops
 
 **Software @ Stealth AI Healthcare Startup**  
-helping build cloud-native infrastructure and web applications for healthcare solutions  
+building cloud-native infra and web apps for healthcare automation
 
-**Freelance Solutions Architect @ Got Users**  
-creating end-to-end analytics platforms for ML-powered content generation  
+**Freelance Solutions Architect**  
+• designing e2e analytics platform for ML-powered content generation  
+• architecting custom ECM software with LLM-powered semantic retrieval  
+• built and shipped a serverless micro-saas web app project  
+\+ more freelance clients :)
 
 **Center Director at Code Ninjas Bridgewater**  
-leading technical education initiatives and curriculum development  
-
-\+ more freelance clients :)
+leading technical education initiatives and curriculum development
 
 <br>
 
