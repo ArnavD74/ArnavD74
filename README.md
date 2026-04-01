@@ -1,54 +1,42 @@
 <div align="center">
-
-<pre style="display:inline-block; text-align:center; margin:0;"><code>arnav dashaputra // ds • swe • cloud • AI/ML</code></pre>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-dashaputra.net-blue?style=for-the-badge&logo=htmx&logoColor=white)](https://dashaputra.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dashaputra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dashaputra)
-[![Location](https://img.shields.io/badge/📍-Princeton,%20NJ-blue?style=for-the-badge)](https://maps.google.com/?q=Princeton,NJ)
-<br>
+https://dashaputra.net
 <br>
 
 ## system setup
 
 <table>
 <tr>
-<td width="33%">
-  
-### windows
-  
-<img src="https://i.imgur.com/STek1jP.png" width="100%" alt="Windows Development Setup">  
 
-</td>
 <td width="33%">
+### windows
+<img src="https://i.imgur.com/STek1jP.png" width="100%" alt="Windows Development Setup">  
+</td>
   
+<td width="33%">
 ### mac
 <img src="https://i.imgur.com/MJFXMTK.png" width="100%" alt="macOS Development Setup">  
-
 </td>
+  
 <td width="33%">
   
 ### home lab
 <img src="https://i.imgur.com/8f3TZKs.png" width="100%" alt="Ubuntu Server Lab Environment">  
-
 </td>
+
 </tr>
 </table>
-
 <br>
 
-<!-- === Peripherals block (between System Specs and Coding Companion) === -->
+<!-- === Peripherals === -->
 <div align="center">
-
 <div align="center">
 
 ## input prefs
 </div>
 <p align="center"><sub>
-I have a fascination with peripheral devices - it took a while to dial things in, but this setup makes me happy!
-<br><br>
 <b>primary keyboards:</b><br>
-<i>Cannonkeys Brutal 65 V2 w/ Keygeek Su Color V2 switches, GMK Shashin keycaps<br>
-Leopold FC660C w/ custom plate, 45g domes, and silencers<br></i>
+<i>Cannonkeys Brutal 65 V2, Keygeek Su Color V2 switches, GMK Shashin<br>
+Leopold FC660C w/ custom plate, RS-45g domes, silencing rings<br></i>
 <br>
 <b>primary mice:</b><br>
 <i>G-Wolves Fenrir Asym 8K</i><br>
@@ -58,14 +46,14 @@ Leopold FC660C w/ custom plate, 45g domes, and silencers<br></i>
 
 <br>
 
-## 🐱 my coding companion!
+## ⚠️🐈⚠️
 <div align="center">
 <img src="https://i.imgur.com/5dOENhx.png" width="60%" style="border-radius: 15px;" alt="My Cat">
 </div>
 
 <br>
 
-## current work and projects
+## current projects
 
 **Data Science @ AmTrust Financial**  
 working around data and MLops
@@ -75,9 +63,9 @@ building cloud-native infra and web apps for healthcare automation
 
 **Freelance Solutions Architect**  
 • designing e2e analytics platform for ML-powered content generation  
-• architecting custom ECM software with LLM-powered semantic retrieval  
-• built and shipped a serverless micro-saas web app project  
-\+ more freelance clients :)
+• architecting ECM software with LLM-powered document retrieval  
+• ship and maintain a serverless micro-saas web app  
+<i>\+ more freelance clients</i>
 
 **Center Director at Code Ninjas Bridgewater**  
 leading technical education initiatives and curriculum development
