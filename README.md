@@ -8,11 +8,13 @@ https://dashaputra.net
 <tr>
 
 <td width="33%">
+  
 ### windows
 <img src="https://i.imgur.com/STek1jP.png" width="100%" alt="Windows Development Setup">  
 </td>
   
 <td width="33%">
+  
 ### mac
 <img src="https://i.imgur.com/MJFXMTK.png" width="100%" alt="macOS Development Setup">  
 </td>
