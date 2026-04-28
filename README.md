@@ -38,6 +38,7 @@ https://dashaputra.net
 <p align="center"><sub>
 <b>primary keyboards:</b><br>
 <i>Cannonkeys Brutal 65 V2, Keygeek Su Color V2 switches, GMK Shashin<br>
+Meletrix Zoom65, 67g Zilent switches, GMK Striker<br>
 Leopold FC660C w/ custom plate, RS-45g domes, silencing rings<br></i>
 <br>
 <b>primary mice:</b><br>
