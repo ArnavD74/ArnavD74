@@ -10,7 +10,7 @@ https://dashaputra.net
 <td width="33%">
   
 ### windows
-<img src="https://i.imgur.com/jv4pDfu.png" width="100%" alt="Windows Development Setup">  
+<img src="https://i.imgur.com/jPeZIyy.png" width="100%" alt="Windows Development Setup">  
 </td>
   
 <td width="33%">
